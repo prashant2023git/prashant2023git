@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate fullstack developer from Uttar Pradesh ,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant2023git&label=Profile%20views&color=0e75b6&style=flat" alt="prashant2023git" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/prashantk4002" target="blank"><img src="https://img.shields.io/twitter/follow/prashantk4002?logo=twitter&style=for-the-badge" alt="prashantk4002" /></a> </p>
 
