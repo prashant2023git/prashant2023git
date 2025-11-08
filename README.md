@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prashant52iiitsonepat@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1kL9W3QXaqXHQlF05-NhBXwcad-hEstBp/view?usp=drivesdk](https://drive.google.com/file/d/1kL9W3QXaqXHQlF05-NhBXwcad-hEstBp/view?usp=drivesdk)](https://drive.google.com/file/d/1dFR8K0qjIMzmmh5C3HNrJdgLKWvLzkv9/view?usp=drivesdk).
+- 📄 Know about my experiences https://drive.google.com/file/d/1dFR8K0qjIMzmmh5C3HNrJdgLKWvLzkv9/view?usp=drivesdk.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
