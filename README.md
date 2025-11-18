@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source contributions**
 
-- 📫 How to reach me **prashant52iiitsonepat@gmail.com**
+- 📫 Reach me at **prashant52iiitsonepat@gmail.com**
 
 - 📄 My resume https://drive.google.com/file/d/1UX6OzHT4Bv0rxAsjel6xdQo-zxfW5Ztc/view?usp=drive_link
 
