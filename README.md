@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">A passionate Full-stack developer focused on creating scalable and user-friendly web solutions</h3>
+<h3 align="center">A Passionate Full-Stack Developer focused on creating Scalable and user-friendly web solutions</h3>
 
 
 
