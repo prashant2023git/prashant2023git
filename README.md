@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **prashant52iiitsonepat@gmail.com**
 
-- 📄 My resume (https://drive.google.com/file/d/1EVm_dcAovSlF4znWYSomyM6FXqdxu4JR/view?usp=drive_link)
+- 📄 My resume https://drive.google.com/file/d/1EVm_dcAovSlF4znWYSomyM6FXqdxu4JR/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
